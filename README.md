@@ -34,21 +34,18 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSrivastava-23&layout=compact" alt="Most Used Languages" height="138px" />
+  <img src="https://github.com/harshchaubey" alt="Most Used Languages" height="138px" />
 </div>
 
 ---
 <h2 align = "center"> 📫 Reach me on 📫 </h2>
 <p align = "center"> 
   <a  href = "https://www.linkedin.com/in/harsh-chaubey-049522294/" target = "_blank"> 
-    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "-abhishek-srivastava" />
+    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "-harshchaubey" />
   </a>
   <a href = "https://mail.google.com/mail/u/0/#inbox" target = "_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt = "abhishek232004" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt = "harshchaubey189" />
   </a>
 </p>
 
 ---
-<h2 align="center">HacktoberFest 2022 </h2>
-
-[![@abhishek_srivastava's Holopin board](https://holopin.me/abhishek_srivastava)](https://holopin.io/@abhishek_srivastava)

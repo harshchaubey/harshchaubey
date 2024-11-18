@@ -33,9 +33,6 @@
 </p>  
 
 ---
-<div align="center">
-  <img src="https://github.com/harshchaubey" alt="Most Used Languages" height="138px" />
-</div>
 
 ---
 <h2 align = "center"> 📫 Reach me on 📫 </h2>
